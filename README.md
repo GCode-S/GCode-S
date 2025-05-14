@@ -23,8 +23,8 @@
 
 ### 📌 Projetos em destaque
 
-- [**Carrinho de Compras - React Native + Redux**](https://github.com/GCode-S/Controll-Fonecedor)  
-  Aplicativo de compras com gerenciamento de estado usando Redux Toolkit, integração com API e interface estilizada com Expo.
+- [**Aplicativo de Controle de Compras por Fornecedor**](https://github.com/GCode-S/Controll-Fonecedor)  
+  Aplicativo desenvolvido em html5 e javascript para gerenciar o controle de compras por determinado fornecedor.
 
 - [**Sistema de Gerenciamento de Tarefas - Next.js + Spring Boot**](https://github.com/GCode-S/task-manager)  
   Fullstack App com autenticação, filtros, paginação e banco de dados PostgreSQL.

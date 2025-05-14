@@ -44,6 +44,7 @@
 
 - Instagram: [@gabriell.souzz_](https://instagram.com/gabriell.souzz_)
 - Email: gabriel.c.souza001@gmail.com
+- LinkedIn: [Gabriel Souza](https://www.linkedin.com/in/gcode-s)
 
 ---
 

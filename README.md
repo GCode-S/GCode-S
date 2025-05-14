@@ -26,7 +26,7 @@
 - [**Carrinho de Compras - React Native + Redux**](https://github.com/seuusuario/carrinho-app)  
   Aplicativo de compras com gerenciamento de estado usando Redux Toolkit, integração com API e interface estilizada com Expo.
 
-- [**Sistema de Gerenciamento de Tarefas - Next.js + Spring Boot**](https://github.com/seuusuario/tarefas-fullstack)  
+- [**Sistema de Gerenciamento de Tarefas - Next.js + Spring Boot**](https://github.com/GCode-S/task-manager)  
   Fullstack App com autenticação, filtros, paginação e banco de dados PostgreSQL.
 
 ---

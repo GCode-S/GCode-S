@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Olá! Me chamo Gabriel Souza</h1> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=40&center=true&vCenter=true&width=1000&lines=Olá!+Me+Chamo+Gabriel+Souza;estudante+de+ADS;na+Universidade+UniFacthus+em+Uberaba+-MG;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=55&center=true&vCenter=true&width=1000&lines=Olá!+Me+Chamo+Gabriel+Souza;estudante+de+ADS;na+Universidade+UniFacthus+em+Uberaba+-MG;)](https://git.io/typing-svg)
 
 ---
 

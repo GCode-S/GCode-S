@@ -29,11 +29,11 @@
 ### 📌 Projetos em destaque
 <div align="center">
 
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Controll-Fonecedor&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GCode-S/Controll-Fonecedor)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Controll-Fonecedor&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Controll-Fonecedor)
 
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=task-manager&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GCode-S/task-manager)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=task-manager&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/task-manager)
 
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Projeto_Instagram&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GCode-S/Projeto_Instagram)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Projeto_Instagram&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Projeto_Instagram)
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=GCode-S&theme=bear&locale=pt-br&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=GCode-S&theme=dark&locale=pt-br&background=151515&hide_border=true&dates=FFF)](https://git.io/streak-stats)
 
 
   [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=GCode-S&locale=pt-br&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dark&hide_border=true&order=2)](https://git.io/streak-stats)

@@ -45,7 +45,8 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=GCode-S&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GCode-S&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
 
   [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=GCode-S&locale=pt-br&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dark&hide_border=true&order=2)](https://git.io/streak-stats)
 

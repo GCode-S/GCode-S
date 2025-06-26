@@ -40,7 +40,8 @@
 ---
 
 ### ✨ Sobre mim
-
+<div align="center">
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=GCode-S&theme=dark&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
 
   [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=GCode-S&locale=pt-br&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dark&hide_border=true&order=2)](https://git.io/streak-stats)
@@ -53,6 +54,8 @@
 - 🚀💼 Buscando crescer profissionalmente como desenvolvedor.
 
 ---
+
+</div>
 
 ### 📫 Contato
 

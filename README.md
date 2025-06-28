@@ -49,7 +49,6 @@
 ---
 
 - 💡👨‍💻 Autodidata e apaixonado por tecnologia.
-- 🛠️💻 Técnico em informática, com experiência prática em manutenção e desenvolvimento.
 - 🎓📚 Cursando Análise de Desenvolvimento de Sistemas.
 - 🚀💼 Buscando crescer profissionalmente como desenvolvedor.
 

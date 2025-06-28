@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  Sou desenvolvedor apaixonado por criar soluções web e mobile, com foco em React Native, Node.js e tecnologias modernas que entregam eficiência e boa experiência para o usuário.
+  Sou estudante e entusiasta de tecnologia, dedicado a aprender e criar soluções web e mobile. Tenho me aprofundado em React Native, Node.js e outras ferramentas modernas, buscando desenvolver projetos que unam eficiência e boa experiência do usuário.
 </p>
 
 ---

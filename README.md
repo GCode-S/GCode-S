@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  Sou estudante e entusiasta de tecnologia, dedicado a aprender e criar soluções web e mobile. Tenho me aprofundado em React Native, Node.js e outras ferramentas modernas, buscando desenvolver projetos que unam eficiência e boa experiência do usuário.
+  Sou desenvolvedor apaixonado por criar soluções web e mobile, com foco em React Native, Node.js e tecnologias modernas que entregam eficiência e boa experiência para o usuário.
 </p>
 
 ---
@@ -31,6 +31,8 @@
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Controll-Fonecedor&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Controll-Fonecedor)
 
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=guia-commits-profissionais&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/guia-commits-profissionais)
+
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=task-manager&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/task-manager)
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Projeto_Instagram&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Projeto_Instagram)
@@ -49,6 +51,7 @@
 ---
 
 - 💡👨‍💻 Autodidata e apaixonado por tecnologia.
+- 🛠️💻 Técnico em informática, com experiência prática em manutenção e desenvolvimento.
 - 🎓📚 Cursando Análise de Desenvolvimento de Sistemas.
 - 🚀💼 Buscando crescer profissionalmente como desenvolvedor.
 

@@ -1,11 +1,11 @@
 <!-- <h1 align="center">Olá! Me chamo Gabriel Souza</h1> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&height=60&size=45&center=true&vCenter=true&width=1000&lines=Olá!+Me+Chamo+Gabriel+Souza;+Cursando+ADS;+Universidade+UniFacthus+Uberaba+-MG;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&height=60&size=45&center=true&vCenter=true&width=1000&lines=Olá!+Me+Chamo+Gabriel;Bem-vindo(a)+ao+meu+GitHub)](https://git.io/typing-svg)
 
 ---
 
 <p align="center">
-  Sou desenvolvedor apaixonado por criar soluções web e mobile, com foco em React Native, Node.js e tecnologias modernas que entregam eficiência e boa experiência para o usuário.
+  Sou apaixonado por criar soluções web e mobile que entregam eficiência e boa experiência para o usuário.
 </p>
 
 ---
@@ -13,14 +13,12 @@
 ### 🚀 Minhas Stacks
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
@@ -29,11 +27,11 @@
 ### 📌 Projetos em destaque
 <div align="center">
 
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Controll-Fonecedor&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Controll-Fonecedor)
-
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=guia-commits-profissionais&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/guia-commits-profissionais)
 
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=task-manager&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/task-manager)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Controll-Fonecedor&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Controll-Fonecedor)
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=LandingPage-Catalago-StefaniLash&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/LandingPage-Catalago-StefaniLash)
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Projeto_Instagram&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Projeto_Instagram)
 
@@ -48,6 +46,8 @@
 
   [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=GCode-S&locale=pt-br&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dark&hide_border=true&order=2)](https://git.io/streak-stats)
 
+</div>
+
 ---
 
 - 💡👨‍💻 Autodidata e apaixonado por tecnologia.
@@ -57,7 +57,6 @@
 
 ---
 
-</div>
 
 ### 📫 Contato
 

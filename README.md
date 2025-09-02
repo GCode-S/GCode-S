@@ -29,7 +29,7 @@
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=guia-commits-profissionais&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/guia-commits-profissionais)
 
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Controll-Fonecedor&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Controll-Fonecedor)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Controll-Fornecedor&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Controll-Fonecedor)
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=LandingPage-Catalago-StefaniLash&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/LandingPage-Catalago-StefaniLash)
 

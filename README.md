@@ -11,24 +11,7 @@
   </a>
 </p>
 
----
-
-### 📌 Projetos em destaque
-<div align="center">
-
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=guia-commits-profissionais&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/guia-commits-profissionais)
-
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Controll-Fornecedor&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Controll-Fonecedor)
-
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=LandingPage-Catalago-StefaniLash&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/LandingPage-Catalago-StefaniLash)
-
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Projeto_Instagram&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Projeto_Instagram)
-
-</div>
-
----
-
-### ✨ Sobre mim
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=GCode-S&theme=dark&hide_border=true&locale=pt-br)](https://git.io/streak-stats)

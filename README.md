@@ -1,45 +1,17 @@
-<!-- <h1 align="center">Olá! Me chamo Gabriel Souza</h1> -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gabriel Souza</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&height=60&size=45&center=true&vCenter=true&width=1000&lines=Olá!+Me+Chamo+Gabriel;Bem-vindo(a)+ao+meu+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&height=60&size=25&center=true&vCenter=true&width=800&lines=Estudante+de+Analise+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia)](https://git.io/typing-svg)
 
----
 
-<p align="center">
-  Sou apaixonado por criar soluções web e mobile que entregam eficiência e boa experiência para o usuário.
-</p>
-
----
-
-### 🚀 Minhas Stacks
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,nodejs,next,python&perline=6" />
+  </a>
 </p>
 
----
-
-### 📌 Projetos em destaque
-<div align="center">
-
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=guia-commits-profissionais&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/guia-commits-profissionais)
-
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Controll-Fonecedor&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Controll-Fonecedor)
-
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=LandingPage-Catalago-StefaniLash&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/LandingPage-Catalago-StefaniLash)
-
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GCode-S&repo=Projeto_Instagram&bg_color=151515&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E44D26&text_color=FFF)](https://github.com/GCode-S/Projeto_Instagram)
-
-</div>
-
----
-
-### ✨ Sobre mim
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=GCode-S&theme=dark&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
@@ -48,19 +20,17 @@
 
 </div>
 
----
+
+## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 
 - 💡👨‍💻 Autodidata e apaixonado por tecnologia.
 - 🛠️💻 Técnico em informática, com experiência prática em manutenção e desenvolvimento.
 - 🎓📚 Cursando Análise de Desenvolvimento de Sistemas.
 - 🚀💼 Buscando crescer profissionalmente como desenvolvedor.
 
----
 
 
-### 📫 Contato
-
-
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px">Contact Me
 <div align="center">
   <a href="https://instagram.com/gabriell.souzz_">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -76,5 +46,4 @@
   </a>
 </div>
 
----
 
